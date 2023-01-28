@@ -11,10 +11,10 @@
 			"BannerFacebook": "628915755243490_628921531909579",
 			"InterstitialFacebook": "628915755243490_628921761909556",
 			
-			"unityGameID": "5138954",
+			"unityGameID": "5139053",
 			"UnityPlacement": "Interstitial_Android",
 
-			"StartappAds": "200562820",
+			"StartappAds": "200135674",
 
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif",
