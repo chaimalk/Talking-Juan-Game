@@ -5,8 +5,8 @@
 
 			"NetworkAds": "unity",
 
-			"BannerAdmob": "ca-app-pub-1010770342437944/1222397389",
-			"InterstitialAdmob": "ca-app-pub-1010770342437944/7132495340",
+			"BannerAdmob": "ca-app-pub-9988228079010380/9994881267",
+			"InterstitialAdmob": "ca-app-pub-9988228079010380/9803309575",
 
 			"BannerFacebook": "594930265627136_594930765627000",
 			"InterstitialFacebook": "594930265627136_594931265627000",
